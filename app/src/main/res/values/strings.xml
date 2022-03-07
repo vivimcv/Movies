@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="Género1">Comedia</string>
+    <string name="Género2">Romance</string>
+    <string name="Género3">Terror</string>
+    <string name="Género4">Drama</string>
+    <string name="Género5">Suspenso</string>
+    <string name="Género6">Fantasía</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_year">Año</string>
+    <string name="hint_director">Director</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="g_nero">Género</string>
+    <string name="boton_Actualizar">Actualizar</string>
+    <string name="imagengenero">ImagenGenero</string>
+    <string name="boton_agregar">Agregar</string>
+    <string name="no_hay_registros">¡No hay registros!</string>
+    <string name="imagenspinner">ImagenSpinner</string>
+    <string-array name="generos">
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Terror</item>
+        <item>Drama</item>
+        <item>Suspenso</item>
+        <item>Fantasía</item>
+    </string-array>
+</resources>
